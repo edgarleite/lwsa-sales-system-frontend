@@ -32,8 +32,8 @@ Este é um projeto frontend de controle de vendas e vendedores, com autenticaç�
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/projeto-vendas.git
-   cd projeto-vendas
+   git clone https://github.com/edgarleite/lwsa-sales-system-frontend.git
+   cd lwsa-sales-system-frontend
    ```
 
 2. Suba os contêineres:
